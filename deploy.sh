@@ -11,7 +11,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/nahummatus/socialhoundchallenge.git master:gh-pages
+git push -f https://github.com/NahumMatus/socialhoundchallenge.git master:gh-pages
 cd -
 
 
